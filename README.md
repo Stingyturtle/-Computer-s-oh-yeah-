@@ -1,1 +1,1 @@
-# -Computer-s-oh-yeah-
+print("HelloWorld")
